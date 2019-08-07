@@ -111,7 +111,7 @@
                 <artifactId>flyway-maven-plugin</artifactId>
                 <version>5.2.4</version>
                 <configuration>
-                    <url>jdbc:mysql:/10.9.50.176:3306/codeask</url>
+                    <url>jdbc:mysql://10.9.50.176:3306/codeask</url>
                     <user>root</user>
                     <password>lzj440784</password>
                 </configuration>
